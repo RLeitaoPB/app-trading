@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    rlbaratta:
+      email: rlbaratta@gmail.com
+      name: Rodrigo Baratta
+      password: $2b$12$nGR0yigPw.Zpelsuw.gZ3uE1Zi9Ne6/x2wFbO2FUUgFX15odRQvWK
+    ratco:
+      email: rafael.l.de.abreu@gmail.com
+      name: Rafael Abreu
+      password: $2b$12$sip7yIMBAYyMoMDEo.kwXe49ElFGSRmtC2gsjz17AlRafOT.fM5Fe
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - rodrigoleitaopuc@gmail.com
